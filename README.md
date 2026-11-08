@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="img/RDCicon.png" alt="DeepCLI logo" width="120" height="120" />
+<img src="RDCicon.png" alt="DeepCLI logo" width="120" height="120" />
 
 # DeepCLI
 
